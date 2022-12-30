@@ -1,5 +1,10 @@
 # Statistics-project
-Here is a project done for my Statistic course at Columbia University.  
+Here is a group project done for my Statistic course at Columbia University.  
+
+We selected five futures contracts tracking the price of different commodities during a recession; specifically the dot-com bubble.   
+We hope to gain insight into the correlation of different commodities during times of recession, with our  
+main hypothesis that people reallocate their investment into commodities or cash during times of uncertainty and poor economic conditions.  
+
 
 
 Given one stock symbol, the notebook can:    
